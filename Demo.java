@@ -3,11 +3,6 @@ class Demo{
 		System.out.println("Hello World");
 		System.out.println("This is another statement");
 		System.out.println("This is github statement");
-		System.out.println("This is another github statement");
-		System.out.println("This is another github statement");
-		System.out.println("This is another github statement");
-		System.out.println("This is another github statement");
-		System.out.println("This is another github statement");
-		System.out.println("This is another github statement");
+		
 	}
 }
